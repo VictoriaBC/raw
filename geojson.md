@@ -7,9 +7,9 @@
 			"coordinates": [-122.166149, 42.865508]
 		},
 		"properties": {
-			"flush": true,
-			"shower": true,
-			"vault": false,
+			"restaurant": true,
+			"hotel": true,
+			"attraction": false,
 			"description": "Flush toilet, Shower",
 			"title": "Mazama",
 			"marker-size": "small"
